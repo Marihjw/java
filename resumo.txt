@@ -1,0 +1,11 @@
+DADOS PRIMITIVOS
+
+      Number : números inteiros
+      String : caracteristicas 
+      Boolean : comparação 
+
+Variaveis e seus significados
+      
+      var1 - é para algo maior, extenso
+      let- determinadas parte do codigo, if e else
+      const- é para uma função, algo mais especifico 
